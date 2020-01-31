@@ -5,5 +5,5 @@ new_sentence = []
 end
 new_sentence.join(" ")
 end
-reverse_
+reverse_each_word(Hello)
  
